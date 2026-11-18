@@ -1,0 +1,14 @@
+{
+    "liveshare.keepAliveInterval": 5,
+    "liveshare.languages.allowGuestCommandControl": true,
+    "liveshare.nameTagVisibility": "Always",
+    "liveshare.notebooks.allowGuestExecuteCells": true,
+    "liveshare.publishWorkspaceInfo": true,
+    "liveshare.launcherClient": "visualStudioCode",
+    "liveshare.diagnosticMode": true,
+    "liveshare.diagnosticLogging": true,
+    "liveshare.alwaysFollowHost": true,
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.guestApprovalRequired": false
+}
